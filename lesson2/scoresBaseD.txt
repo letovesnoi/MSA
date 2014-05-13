@@ -1,0 +1,469 @@
+   5.540    554 pos.      265 -     284 sp|P14779|CPXB_BACME Bifunctional P-450/NADPH-P450 reductase OS=Bacillus megaterium GN=cyp102A1 PE=1 SV=2
+   5.440    544 pos.      267 -     286 sp|O08394|CYPD_BACSU Probable bifunctional P-450/NADPH-P450 reductase 1 OS=Bacillus subtilis (strain 168) GN=cypD PE=3 SV=1
+   4.920    492 pos.      303 -     322 sp|O70537|CP3AV_MESAU Cytochrome P450 3A31 OS=Mesocricetus auratus GN=CYP3A31 PE=2 SV=1
+   4.920    492 pos.      267 -     286 sp|O08336|CYPE_BACSU Probable bifunctional P-450/NADPH-P450 reductase 2 OS=Bacillus subtilis (strain 168) GN=cypE PE=2 SV=1
+   4.920    492 pos.      241 -     260 sp|Q825I8|CYP28_STRAW Pentalenic acid synthase OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NCIMB 12804 / NRRL 8165 / MA-4680) GN=cyp28 PE=1 SV=2
+   4.760    476 pos.      236 -     255 sp|C4B644|CPVDH_PSEAH Vitamin D(3) 25-hydroxylase OS=Pseudonocardia autotrophica GN=vdh PE=1 SV=1
+   4.740    474 pos.      306 -     325 sp|P05183|CP3A2_RAT Cytochrome P450 3A2 OS=Rattus norvegicus GN=Cyp3a2 PE=1 SV=2
+   4.720    472 pos.      266 -     285 sp|Q9Y8G7|C505_FUSOX Bifunctional P-450:NADPH-P450 reductase OS=Fusarium oxysporum GN=CYP505 PE=1 SV=1
+   4.640    464 pos.      251 -     270 sp|P26911|CPXH_STRGR Cytochrome P450-SOY OS=Streptomyces griseus GN=cyp105D1 PE=3 SV=1
+   4.620    462 pos.      321 -     340 sp|P30608|CP52F_CANTR Cytochrome P450 52A6 OS=Candida tropicalis GN=CYP52A6 PE=2 SV=1
+   4.620    462 pos.      306 -     325 sp|Q64481|CP3AG_MOUSE Cytochrome P450 3A16 OS=Mus musculus GN=Cyp3a16 PE=2 SV=2
+   4.600    460 pos.      310 -     329 sp|Q9VB31|C6A18_DROME Probable cytochrome P450 6a18 OS=Drosophila melanogaster GN=Cyp6a18 PE=2 SV=1
+   4.600    460 pos.      305 -     324 sp|Q64464|CP3AD_MOUSE Cytochrome P450 3A13 OS=Mus musculus GN=Cyp3a13 PE=2 SV=1
+   4.600    460 pos.      249 -     268 sp|P00183|CPXA_PSEPU Camphor 5-monooxygenase OS=Pseudomonas putida GN=camC PE=1 SV=2
+   4.580    458 pos.      310 -     329 sp|Q27593|CP6A8_DROME Cytochrome P450 6a8 OS=Drosophila melanogaster GN=Cyp6a8 PE=2 SV=2
+   4.560    456 pos.      307 -     326 sp|Q9V4T5|CP4E1_DROME Probable cytochrome P450 4e1 OS=Drosophila melanogaster GN=Cyp4e1 PE=2 SV=1
+   4.540    454 pos.      239 -     258 sp|P23295|NOR_FUSOX NADP nitrous oxide-forming nitric oxide reductase OS=Fusarium oxysporum GN=CYP55A1 PE=1 SV=2
+   4.540    454 pos.      235 -     254 sp|P53554|BIOI_BACSU Biotin biosynthesis cytochrome P450 OS=Bacillus subtilis (strain 168) GN=bioI PE=1 SV=1
+   4.500    450 pos.      320 -     339 sp|P24458|CP52E_CANMA Cytochrome P450 52A3-B OS=Candida maltosa GN=CYP52A3-B PE=1 SV=1
+   4.500    450 pos.      320 -     339 sp|P16496|CP52C_CANMA Cytochrome P450 52A3-A OS=Candida maltosa GN=CYP52A3-A PE=1 SV=3
+   4.500    450 pos.      320 -     339 sp|O17624|C13B1_CAEEL Putative cytochrome P450 cyp-13B1 OS=Caenorhabditis elegans GN=cyp-13B1 PE=3 SV=2
+   4.500    450 pos.      306 -     325 sp|P30609|CP52G_CANTR Cytochrome P450 52A7 OS=Candida tropicalis GN=CYP52A7 PE=2 SV=1
+   4.480    448 pos.      317 -     336 sp|Q12586|CP52I_CANMA Cytochrome P450 52A9 OS=Candida maltosa GN=CYP52A9 PE=1 SV=1
+   4.480    448 pos.      241 -     260 sp|Q00441|CPXJ_SACEN 6-deoxyerythronolide B hydroxylase OS=Saccharopolyspora erythraea (strain NRRL 23338) GN=eryF PE=1 SV=2
+   4.460    446 pos.      307 -     326 sp|Q27606|CP4E2_DROME Cytochrome P450 4e2 OS=Drosophila melanogaster GN=Cyp4e2 PE=2 SV=2
+   4.440    444 pos.      325 -     344 sp|Q9VRI9|CP6T1_DROME Probable cytochrome P450 6t1 OS=Drosophila melanogaster GN=Cyp6t1 PE=2 SV=1
+   4.440    444 pos.      308 -     327 sp|Q27594|CP6A9_DROME Cytochrome P450 6a9 OS=Drosophila melanogaster GN=Cyp6a9 PE=2 SV=3
+   4.440    444 pos.      305 -     324 sp|P20815|CP3A5_HUMAN Cytochrome P450 3A5 OS=Homo sapiens GN=CYP3A5 PE=1 SV=1
+   4.420    442 pos.      305 -     324 sp|Q29496|CP3AO_SHEEP Cytochrome P450 3A24 OS=Ovis aries GN=CYP3A24 PE=2 SV=1
+   4.420    442 pos.      304 -     323 sp|Q9V770|C6A17_DROME Probable cytochrome P450 6a17 OS=Drosophila melanogaster GN=Cyp6a17 PE=2 SV=1
+   4.380    438 pos.      313 -     332 sp|P30610|CP52H_CANTR Cytochrome P450 52A8 OS=Candida tropicalis GN=CYP52A8 PE=2 SV=1
+   4.380    438 pos.      306 -     325 sp|Q9JMA7|CP341_MOUSE Cytochrome P450 3A41 OS=Mus musculus GN=Cyp3a41a PE=2 SV=2
+   4.380    438 pos.      298 -     317 sp|Q9V769|C6A22_DROME Cytochrome P450 6a22 OS=Drosophila melanogaster GN=Cyp6a22 PE=2 SV=1
+   4.360    436 pos.      307 -     326 sp|Q9VL92|CP4E3_DROME Cytochrome P450 4e3 OS=Drosophila melanogaster GN=Cyp4e3 PE=2 SV=1
+   4.360    436 pos.      248 -     267 sp|Q59831|CPS2_STRCC Cytochrome P450 105A3 OS=Streptomyces carbophilus GN=cyp105A3 PE=1 SV=3
+   4.360    436 pos.      241 -     260 sp|O31785|PKSS_BACSU Polyketide biosynthesis cytochrome P450 PksS OS=Bacillus subtilis (strain 168) GN=pksS PE=3 SV=2
+   4.320    432 pos.      308 -     327 sp|Q9V774|C6A21_DROME Probable cytochrome P450 6a21 OS=Drosophila melanogaster GN=Cyp6a21 PE=2 SV=1
+   4.300    430 pos.      392 -     411 sp|Q7KWN2|C525A_DICDI Probable cytochrome P450 525A1 OS=Dictyostelium discoideum GN=cyp525A1 PE=3 SV=1
+   4.300    430 pos.      312 -     331 sp|Q9V674|CP6G1_DROME Cytochrome P450 6g1 OS=Drosophila melanogaster GN=Cyp6g1 PE=2 SV=1
+   4.300    430 pos.      305 -     324 sp|Q64417|CP3AE_CAVPO Cytochrome P450 3A14 OS=Cavia porcellus GN=CYP3A14 PE=2 SV=2
+   4.300    430 pos.      238 -     257 sp|Q9PGC5|C1331_XYLFA Putative cytochrome P450 133B1 OS=Xylella fastidiosa (strain 9a5c) GN=cyp133B1 PE=3 SV=1
+   4.300    430 pos.      238 -     257 sp|Q87AX5|C1331_XYLFT Putative cytochrome P450 133B1 OS=Xylella fastidiosa (strain Temecula1 / ATCC 700964) GN=cyp133B1 PE=3 SV=1
+   4.280    428 pos.      305 -     324 sp|P33268|CP3A8_MACFA Cytochrome P450 3A8 OS=Macaca fascicularis GN=CYP3A8 PE=1 SV=1
+   4.280    428 pos.      305 -     324 sp|P24462|CP3A7_HUMAN Cytochrome P450 3A7 OS=Homo sapiens GN=CYP3A7 PE=1 SV=2
+   4.260    426 pos.      316 -     335 sp|Q9Y757|CP52L_DEBHN Cytochrome P450 52A12 OS=Debaryomyces hansenii GN=CYP52A12 PE=2 SV=2
+   4.260    426 pos.      305 -     324 sp|P08684|CP3A4_HUMAN Cytochrome P450 3A4 OS=Homo sapiens GN=CYP3A4 PE=1 SV=4
+   4.260    426 pos.      296 -     315 sp|P00182|CP2C3_RABIT Cytochrome P450 2C3 OS=Oryctolagus cuniculus GN=CYP2C3 PE=1 SV=2
+   4.260    426 pos.      244 -     263 sp|P18326|CPXE_STRGO Cytochrome P450-SU1 OS=Streptomyces griseolus GN=cyp105A1 PE=1 SV=2
+   4.240    424 pos.      362 -     381 sp|Q43078|C97B1_PEA Cytochrome P450 97B1, chloroplastic OS=Pisum sativum GN=CYP97B1 PE=2 SV=1
+   4.240    424 pos.      353 -     372 sp|O48921|C97B2_SOYBN Cytochrome P450 97B2, chloroplastic OS=Glycine max GN=CYP97B2 PE=2 SV=1
+   4.240    424 pos.      305 -     324 sp|P51538|CP3A9_RAT Cytochrome P450 3A9 OS=Rattus norvegicus GN=Cyp3a9 PE=2 SV=2
+   4.240    424 pos.      241 -     260 sp|P18327|CPXF_STRGO Cytochrome P450-SU2 OS=Streptomyces griseolus GN=cyp105B1 PE=1 SV=2
+   4.220    422 pos.      306 -     325 sp|Q64459|CP3AB_MOUSE Cytochrome P450 3A11 OS=Mus musculus GN=Cyp3a11 PE=1 SV=1
+   4.220    422 pos.      305 -     324 sp|P13527|CP6A1_MUSDO Cytochrome P450 6A1 OS=Musca domestica GN=CYP6A1 PE=2 SV=1
+   4.220    422 pos.      239 -     258 sp|Q00616|NOR1_CYLTO Cytochrome P450 55A2 OS=Cylindrocarpon tonkinense GN=CYP55A2 PE=3 SV=1
+   4.220    422 pos.      238 -     257 sp|P46373|FAS1_RHOFA Cytochrome P450 FAS1 OS=Rhodococcus fascians GN=fas1 PE=2 SV=1
+   4.200    420 pos.      307 -     326 sp|Q9VXY0|CP4S3_DROME Probable cytochrome P450 4s3 OS=Drosophila melanogaster GN=Cyp4s3 PE=3 SV=1
+   4.200    420 pos.      303 -     322 sp|P11707|CP3A6_RABIT Cytochrome P450 3A6 OS=Oryctolagus cuniculus GN=CYP3A6 PE=2 SV=2
+   4.180    418 pos.      315 -     334 sp|Q12589|CP52K_CANMA Cytochrome P450 52A11 OS=Candida maltosa GN=CYP52A11 PE=2 SV=1
+   4.180    418 pos.      315 -     334 sp|Q12588|CP52J_CANMA Cytochrome P450 52A10 OS=Candida maltosa GN=CYP52A10 PE=2 SV=1
+   4.180    418 pos.      305 -     324 sp|O18993|CP3AL_CALJA Cytochrome P450 3A21 OS=Callithrix jacchus GN=CYP3A21 PE=2 SV=1
+   4.180    418 pos.      304 -     323 sp|O46054|C4AE1_DROME Cytochrome P450 4ae1 OS=Drosophila melanogaster GN=Cyp4ae1 PE=2 SV=1
+   4.180    418 pos.      298 -     317 sp|Q9GQM9|CP6L1_BLAGE Cytochrome P450 6l1 OS=Blattella germanica GN=CYP6L1 PE=2 SV=1
+   4.180    418 pos.      244 -     263 sp|Q12599|NOR2_CYLTO Cytochrome P450 55A3 OS=Cylindrocarpon tonkinense GN=CYP55A3 PE=3 SV=1
+   4.160    416 pos.      317 -     336 sp|Q9Y758|CP52M_DEBHN Cytochrome P450 52A13 OS=Debaryomyces hansenii GN=CYP52A13 PE=2 SV=1
+   4.140    414 pos.      315 -     334 sp|O46051|C4D14_DROME Probable cytochrome P450 4d14 OS=Drosophila melanogaster GN=Cyp4d14 PE=3 SV=1
+   4.100    410 pos.      347 -     366 sp|Q6TBX7|LUT1_ARATH Carotene epsilon-monooxygenase, chloroplastic OS=Arabidopsis thaliana GN=CYP97C1 PE=1 SV=1
+   4.100    410 pos.      341 -     360 sp|P49430|THAS_RAT Thromboxane-A synthase OS=Rattus norvegicus GN=Tbxas1 PE=2 SV=1
+   4.080    408 pos.      359 -     378 sp|O23365|C97B3_ARATH Cytochrome P450 97B3, chloroplastic OS=Arabidopsis thaliana GN=CYP97B3 PE=2 SV=2
+   4.080    408 pos.      341 -     360 sp|Q2PG45|THAS_MACFA Thromboxane-A synthase OS=Macaca fascicularis GN=TBXAS1 PE=2 SV=2
+   4.080    408 pos.      341 -     360 sp|Q2KIG5|THAS_BOVIN Thromboxane-A synthase OS=Bos taurus GN=TBXAS1 PE=2 SV=1
+   4.080    408 pos.      297 -     316 sp|O13317|TRI11_FUSSP Isotrichodermin C-15 hydroxylase OS=Fusarium sporotrichioides GN=TRI11 PE=3 SV=1
+   4.080    408 pos.      267 -     286 sp|P33006|CPXL_PSESP Cytochrome P450-terp OS=Pseudomonas sp. GN=cyp108 PE=1 SV=1
+   4.060    406 pos.      317 -     336 sp|O15528|CP27B_HUMAN 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Homo sapiens GN=CYP27B1 PE=1 SV=1
+   4.060    406 pos.      310 -     329 sp|O35132|CP27B_RAT 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Rattus norvegicus GN=Cyp27b1 PE=2 SV=2
+   4.040    404 pos.      238 -     257 sp|Q9PGE6|C1332_XYLFA Putative cytochrome P450 133B2 OS=Xylella fastidiosa (strain 9a5c) GN=cyp133B2 PE=3 SV=1
+   4.040    404 pos.      238 -     257 sp|Q87AV9|C1332_XYLFT Putative cytochrome P450 133B2 OS=Xylella fastidiosa (strain Temecula1 / ATCC 700964) GN=cyp133B2 PE=3 SV=1
+   4.020    402 pos.      330 -     349 sp|P51870|CP4F5_RAT Cytochrome P450 4F5 OS=Rattus norvegicus GN=Cyp4f5 PE=2 SV=1
+   4.020    402 pos.      328 -     347 sp|P51871|CP4F6_RAT Cytochrome P450 4F6 OS=Rattus norvegicus GN=Cyp4f6 PE=2 SV=1
+   4.020    402 pos.      316 -     335 sp|Q9V675|CP6G2_DROME Probable cytochrome P450 6g2 OS=Drosophila melanogaster GN=Cyp6g2 PE=2 SV=1
+   4.020    402 pos.      305 -     324 sp|Q9V773|C6A20_DROME Probable cytochrome P450 6a20 OS=Drosophila melanogaster GN=Cyp6a20 PE=2 SV=2
+   4.020    402 pos.      255 -     274 sp|Q53215|Y4VG_RHISN Probable cytochrome P450 127A1 OS=Rhizobium sp. (strain NGR234) GN=cyp127A1 PE=3 SV=1
+   4.000    400 pos.      341 -     360 sp|P36423|THAS_MOUSE Thromboxane-A synthase OS=Mus musculus GN=Tbxas1 PE=2 SV=2
+   4.000    400 pos.      341 -     360 sp|P24557|THAS_HUMAN Thromboxane-A synthase OS=Homo sapiens GN=TBXAS1 PE=1 SV=3
+   4.000    400 pos.      266 -     285 sp|P63718|CP138_MYCBO Putative cytochrome P450 138 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp138 PE=3 SV=1
+   4.000    400 pos.      266 -     285 sp|P63717|CP138_MYCTU Putative cytochrome P450 138 OS=Mycobacterium tuberculosis GN=cyp138 PE=3 SV=1
+   4.000    400 pos.      185 -     204 sp|P11372|CP2CF_RABIT Cytochrome P450 2C15 (Fragment) OS=Oryctolagus cuniculus GN=CYP2C15 PE=2 SV=1
+   3.980    398 pos.      328 -     347 sp|Q9HCS2|CP4FC_HUMAN Cytochrome P450 4F12 OS=Homo sapiens GN=CYP4F12 PE=1 SV=2
+   3.980    398 pos.      328 -     347 sp|P98187|CP4F8_HUMAN Cytochrome P450 4F8 OS=Homo sapiens GN=CYP4F8 PE=1 SV=1
+   3.980    398 pos.      268 -     287 sp|Q00714|STCS_EMENI Probable sterigmatocystin biosynthesis P450 monooxygenase stcS OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) GN=stcS PE=1 SV=2
+   3.960    396 pos.      305 -     324 sp|P24463|CP3AC_CANFA Cytochrome P450 3A12 OS=Canis familiaris GN=CYP3A12 PE=2 SV=1
+   3.960    396 pos.      300 -     319 sp|Q9V676|CP6T3_DROME Probable cytochrome P450 6t3 OS=Drosophila melanogaster GN=Cyp6t3 PE=3 SV=1
+   3.960    396 pos.      241 -     260 sp|P33271|CPXK_SACEN Cytochrome P450 107B1 OS=Saccharopolyspora erythraea (strain NRRL 23338) GN=cyp107B1 PE=1 SV=1
+   3.940    394 pos.      322 -     341 sp|Q12581|CP52X_CANMA Cytochrome P450 52A5 OS=Candida maltosa GN=CYP52A5 PE=1 SV=1
+   3.940    394 pos.      305 -     324 sp|Q64409|CP3AH_CAVPO Cytochrome P450 3A17 OS=Cavia porcellus GN=CYP3A17 PE=2 SV=1
+   3.940    394 pos.      304 -     323 sp|Q50EK1|C16B1_PICSI Cytochrome P450 716B1 OS=Picea sitchensis GN=CYP716B1 PE=2 SV=1
+   3.940    394 pos.      304 -     323 sp|Q50EK0|C16B2_PICSI Cytochrome P450 716B2 OS=Picea sitchensis GN=CYP716B2 PE=2 SV=1
+   3.940    394 pos.      261 -     280 sp|P63716|C135B_MYCBO Putative cytochrome P450 135B1 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp135B1 PE=3 SV=1
+   3.940    394 pos.      261 -     280 sp|P63715|C135B_MYCTU Putative cytochrome P450 135B1 OS=Mycobacterium tuberculosis GN=cyp135B1 PE=3 SV=1
+   3.920    392 pos.      270 -     289 sp|P63722|CP140_MYCBO Putative cytochrome P450 140 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp140 PE=3 SV=1
+   3.920    392 pos.      270 -     289 sp|P63721|CP140_MYCTU Putative cytochrome P450 140 OS=Mycobacterium tuberculosis GN=cyp140 PE=3 SV=1
+   3.900    390 pos.      338 -     357 sp|P17177|CP27A_RABIT Sterol 26-hydroxylase, mitochondrial OS=Oryctolagus cuniculus GN=CYP27A1 PE=2 SV=1
+   3.900    390 pos.      337 -     356 sp|P17178|CP27A_RAT Sterol 26-hydroxylase, mitochondrial OS=Rattus norvegicus GN=Cyp27a1 PE=1 SV=1
+   3.900    390 pos.      326 -     345 sp|Q27517|C13A3_CAEEL Putative cytochrome P450 CYP13A3 OS=Caenorhabditis elegans GN=cyp-13A3 PE=3 SV=1
+   3.900    390 pos.      326 -     345 sp|Q27514|C13A5_CAEEL Putative cytochrome P450 CYP13A5 OS=Caenorhabditis elegans GN=cyp-13A5 PE=3 SV=1
+   3.900    390 pos.      236 -     255 sp|P55544|CPXP_RHISN Cytochrome P450 BJ-1 homolog OS=Rhizobium sp. (strain NGR234) GN=cyp112A2 PE=3 SV=1
+   3.880    388 pos.      328 -     347 sp|Q99N16|CP4F3_MOUSE Leukotriene-B(4) omega-hydroxylase 2 OS=Mus musculus GN=Cyp4f3 PE=2 SV=2
+   3.880    388 pos.      328 -     347 sp|Q3MID2|CP4F3_RAT Leukotriene-B(4) omega-hydroxylase 2 OS=Rattus norvegicus GN=Cyp4f3 PE=2 SV=1
+   3.880    388 pos.      326 -     345 sp|Q27520|C13A1_CAEEL Putative cytochrome P450 CYP13A1 OS=Caenorhabditis elegans GN=cyp-13A1 PE=3 SV=1
+   3.880    388 pos.      324 -     343 sp|Q27515|C13A6_CAEEL Putative cytochrome P450 CYP13A6 OS=Caenorhabditis elegans GN=cyp-13A6 PE=3 SV=1
+   3.880    388 pos.      314 -     333 sp|Q9VFP1|CP6D5_DROME Probable cytochrome P450 6d5 OS=Drosophila melanogaster GN=Cyp6d5 PE=2 SV=1
+   3.880    388 pos.      296 -     315 sp|Q29510|CP2CU_RABIT Cytochrome P450 2C30 OS=Oryctolagus cuniculus GN=CYP2C30 PE=2 SV=1
+   3.880    388 pos.      296 -     315 sp|Q12585|CP52T_CANMA Cytochrome P450 52D1 OS=Candida maltosa GN=CYP52D1 PE=2 SV=1
+   3.880    388 pos.      180 -     199 sp|Q4G0S4|C27C1_HUMAN Cytochrome P450 27C1 OS=Homo sapiens GN=CYP27C1 PE=2 SV=2
+   3.860    386 pos.      327 -     346 sp|H2DH21|C7A29_PANGI Cytochrome P450 CYP72A219 OS=Panax ginseng PE=2 SV=1
+   3.840    384 pos.      314 -     333 sp|Q86W10|CP4Z1_HUMAN Cytochrome P450 4Z1 OS=Homo sapiens GN=CYP4Z1 PE=2 SV=1
+   3.820    382 pos.      302 -     321 sp|Q9Y6A2|CP46A_HUMAN Cholesterol 24-hydroxylase OS=Homo sapiens GN=CYP46A1 PE=1 SV=1
+   3.820    382 pos.      302 -     321 sp|Q9WVK8|CP46A_MOUSE Cholesterol 24-hydroxylase OS=Mus musculus GN=Cyp46a1 PE=2 SV=1
+   3.820    382 pos.      297 -     316 sp|P33273|CP255_RAT Cytochrome P450 2C55 OS=Rattus norvegicus GN=Cyp2c55 PE=2 SV=2
+   3.820    382 pos.      297 -     316 sp|P33265|CP2CS_MESAU Cytochrome P450 2C28 OS=Mesocricetus auratus GN=CYP2C28 PE=2 SV=1
+   3.820    382 pos.      297 -     316 sp|P33262|CP2CK_MACFA Cytochrome P450 2C20 OS=Macaca fascicularis GN=CYP2C20 PE=2 SV=1
+   3.820    382 pos.      297 -     316 sp|P10632|CP2C8_HUMAN Cytochrome P450 2C8 OS=Homo sapiens GN=CYP2C8 PE=1 SV=2
+   3.820    382 pos.      297 -     316 sp|P08683|CP2CB_RAT Cytochrome P450 2C11 OS=Rattus norvegicus GN=Cyp2c11 PE=1 SV=1
+   3.820    382 pos.      296 -     315 sp|O62671|CP241_CANFA Cytochrome P450 2C41 OS=Canis familiaris GN=CYP2C41 PE=2 SV=1
+   3.820    382 pos.      248 -     267 sp|O08469|CPXY_BACSU Cytochrome P450 OS=Bacillus subtilis (strain 168) GN=cypA PE=3 SV=1
+   3.820    382 pos.      241 -     260 sp|P27632|CPXM_BACPZ Cytochrome P450 109 OS=Bacillus subtilis subsp. spizizenii (strain ATCC 23059 / NRRL B-14472 / W23) GN=cyp109 PE=3 SV=1
+   3.800    380 pos.      317 -     336 sp|O35084|CP27B_MOUSE 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial OS=Mus musculus GN=Cyp27b1 PE=2 SV=2
+   3.780    378 pos.      297 -     316 sp|P17666|CP2CE_RABIT Cytochrome P450 2C14 OS=Oryctolagus cuniculus GN=CYP2C14 PE=2 SV=1
+   3.780    378 pos.      297 -     316 sp|P00181|CP2C2_RABIT Cytochrome P450 2C2 OS=Oryctolagus cuniculus GN=CYP2C2 PE=1 SV=2
+   3.780    378 pos.      297 -     316 sp|P00180|CP2C1_RABIT Cytochrome P450 2C1 OS=Oryctolagus cuniculus GN=CYP2C1 PE=1 SV=2
+   3.780    378 pos.      254 -     273 sp|Q9KIZ4|C167_SORCE Cytochrome P450 167A1 OS=Sorangium cellulosum GN=cyp167A1 PE=1 SV=1
+   3.780    378 pos.      237 -     256 sp|Q59203|CPXP_BRADU Cytochrome P450 BJ-1 OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / IAM 13628 / NBRC 14792 / USDA 110) GN=cyp112 PE=3 SV=2
+   3.760    376 pos.      310 -     329 sp|P33270|CP6A2_DROME Cytochrome P450 6a2 OS=Drosophila melanogaster GN=Cyp6a2 PE=2 SV=2
+   3.760    376 pos.      305 -     324 sp|P79102|CP3AS_BOVIN Cytochrome P450 3A28 OS=Bos taurus GN=CYP3A28 PE=2 SV=1
+   3.760    376 pos.      297 -     316 sp|Q08078|CP2CP_MESAU Cytochrome P450 2C25 OS=Mesocricetus auratus GN=CYP2C25 PE=2 SV=1
+   3.760    376 pos.      297 -     316 sp|P33264|CP2CR_MESAU Cytochrome P450 2C27 OS=Mesocricetus auratus GN=CYP2C27 PE=2 SV=1
+   3.760    376 pos.      297 -     316 sp|P33263|CP2CQ_MESAU Cytochrome P450 2C26 OS=Mesocricetus auratus GN=CYP2C26 PE=2 SV=1
+   3.760    376 pos.      297 -     316 sp|P33261|CP2CJ_HUMAN Cytochrome P450 2C19 OS=Homo sapiens GN=CYP2C19 PE=1 SV=3
+   3.760    376 pos.      297 -     316 sp|P11712|CP2C9_HUMAN Cytochrome P450 2C9 OS=Homo sapiens GN=CYP2C9 PE=1 SV=3
+   3.760    376 pos.      291 -     310 sp|P08686|CP21A_HUMAN Steroid 21-hydroxylase OS=Homo sapiens GN=CYP21A2 PE=1 SV=1
+   3.760    376 pos.      279 -     298 sp|I7CT85|C7A53_PANGI Protopanaxadiol 6-hydroxylase OS=Panax ginseng PE=1 SV=1
+   3.760    376 pos.      245 -     264 sp|Q8RN03|C5C4_AMYOR Cytochrome P450 165C4 OS=Amycolatopsis orientalis GN=cyp165C4 PE=1 SV=1
+   3.740    374 pos.      334 -     353 sp|B9X287|C7346_ORYSJ Cytochrome P450 734A6 OS=Oryza sativa subsp. japonica GN=CYP734A6 PE=2 SV=1
+   3.740    374 pos.      305 -     324 sp|Q9V9L1|CP6W1_DROME Probable cytochrome P450 6w1 OS=Drosophila melanogaster GN=Cyp6w1 PE=2 SV=1
+   3.740    374 pos.      305 -     324 sp|P79401|CP3AT_PIG Cytochrome P450 3A29 OS=Sus scrofa GN=CYP3A29 PE=2 SV=1
+   3.720    372 pos.      305 -     324 sp|Q9V771|C6A23_DROME Probable cytochrome P450 6a23 OS=Drosophila melanogaster GN=Cyp6a23 PE=2 SV=2
+   3.720    372 pos.      294 -     313 sp|P56594|CP2CL_CANFA Cytochrome P450 2C21 (Fragment) OS=Canis familiaris GN=CYP2C21 PE=2 SV=2
+   3.720    372 pos.      267 -     286 sp|Q9VS79|CP4D8_DROME Cytochrome P450 4d8 OS=Drosophila melanogaster GN=Cyp4d8 PE=2 SV=2
+   3.720    372 pos.      134 -     153 sp|P79402|CP242_PIG Cytochrome P450 2C42 (Fragment) OS=Sus scrofa GN=CYP2C42 PE=2 SV=1
+   3.700    370 pos.      336 -     355 sp|P10615|CP52A_CANTR Cytochrome P450 52A1 OS=Candida tropicalis GN=CYP52A1 PE=1 SV=3
+   3.700    370 pos.      334 -     353 sp|P16141|CP52D_CANMA Cytochrome P450 52A4 OS=Candida maltosa GN=CYP52A4 PE=1 SV=4
+   3.700    370 pos.      333 -     352 sp|H1A988|C7254_GLYUR 11-oxo-beta-amyrin 30-oxidase OS=Glycyrrhiza uralensis GN=CYP72A154 PE=1 SV=1
+   3.700    370 pos.      311 -     330 sp|Q27589|CP4D2_DROME Cytochrome P450 4d2 OS=Drosophila melanogaster GN=Cyp4d2 PE=2 SV=2
+   3.700    370 pos.      299 -     318 sp|P08682|CP2E1_RABIT Cytochrome P450 2E1 OS=Oryctolagus cuniculus GN=CYP2E1 PE=2 SV=2
+   3.700    370 pos.      290 -     309 sp|P00191|CP21A_BOVIN Steroid 21-hydroxylase OS=Bos taurus GN=CYP21 PE=1 SV=2
+   3.700    370 pos.      278 -     297 sp|Q42569|C90A1_ARATH Cytochrome P450 90A1 OS=Arabidopsis thaliana GN=CYP90A1 PE=2 SV=1
+   3.700    370 pos.       16 -      35 sp|P79152|CP3AJ_CAPAE Cytochrome P450 3A19 (Fragment) OS=Capra aegagrus GN=CYP3A19 PE=2 SV=1
+   3.680    368 pos.      337 -     356 sp|Q9DBG1|CP27A_MOUSE Sterol 26-hydroxylase, mitochondrial OS=Mus musculus GN=Cyp27a1 PE=1 SV=1
+   3.680    368 pos.      335 -     354 sp|Q02318|CP27A_HUMAN Sterol 26-hydroxylase, mitochondrial OS=Homo sapiens GN=CYP27A1 PE=1 SV=1
+   3.680    368 pos.      315 -     334 sp|Q9GJX5|CP4AL_PIG Taurochenodeoxycholic 6 alpha-hydroxylase OS=Sus scrofa GN=CYP4A21 PE=1 SV=1
+   3.680    368 pos.      310 -     329 sp|O42563|CP3AR_ONCMY Cytochrome P450 3A27 OS=Oncorhynchus mykiss GN=cyp3a27 PE=2 SV=1
+   3.680    368 pos.      301 -     320 sp|O69653|CP137_MYCTU Putative cytochrome P450 137 OS=Mycobacterium tuberculosis GN=cyp137 PE=3 SV=1
+   3.680    368 pos.      287 -     306 sp|Q55AJ4|C516B_DICDI Probable cytochrome P450 516B1 OS=Dictyostelium discoideum GN=cyp516B1 PE=3 SV=1
+   3.680    368 pos.      261 -     280 sp|P29980|CPXN_NOSS1 Probable cytochrome P450 110 OS=Nostoc sp. (strain PCC 7120 / UTEX 2576) GN=cyp110 PE=3 SV=3
+   3.680    368 pos.      239 -     258 sp|O34374|YJIB_BACSU Putative cytochrome P450 YjiB OS=Bacillus subtilis (strain 168) GN=yjiB PE=3 SV=1
+   3.660    366 pos.      328 -     347 sp|Q9HBI6|CP4FB_HUMAN Cytochrome P450 4F11 OS=Homo sapiens GN=CYP4F11 PE=2 SV=3
+   3.660    366 pos.      328 -     347 sp|Q08477|CP4F3_HUMAN Leukotriene-B(4) omega-hydroxylase 2 OS=Homo sapiens GN=CYP4F3 PE=2 SV=2
+   3.660    366 pos.      328 -     347 sp|P78329|CP4F2_HUMAN Leukotriene-B(4) omega-hydroxylase 1 OS=Homo sapiens GN=CYP4F2 PE=1 SV=1
+   3.660    366 pos.      326 -     345 sp|Q27519|C13A7_CAEEL Putative cytochrome P450 CYP13A7 OS=Caenorhabditis elegans GN=cyp-13A7 PE=3 SV=1
+   3.660    366 pos.      326 -     345 sp|Q27513|C13A4_CAEEL Putative cytochrome P450 CYP13A4 OS=Caenorhabditis elegans GN=cyp-13A4 PE=3 SV=1
+   3.660    366 pos.      305 -     324 sp|Q64406|CP3AF_CAVPO Cytochrome P450 3A15 OS=Cavia porcellus GN=CYP3A15 PE=2 SV=1
+   3.660    366 pos.      294 -     313 sp|P15123|CP2CG_RABIT Cytochrome P450 2C16 OS=Oryctolagus cuniculus GN=CYP2C16 PE=2 SV=1
+   3.660    366 pos.      294 -     313 sp|P11371|CP2C4_RABIT Cytochrome P450 2C4 OS=Oryctolagus cuniculus GN=CYP2C4 PE=2 SV=1
+   3.660    366 pos.      294 -     313 sp|P00179|CP2C5_RABIT Cytochrome P450 2C5 OS=Oryctolagus cuniculus GN=CYP2C5 PE=1 SV=2
+   3.640    364 pos.      355 -     374 sp|Q6Z6D6|C7342_ORYSJ Cytochrome P450 734A2 OS=Oryza sativa subsp. japonica GN=CYP734A2 PE=2 SV=1
+   3.640    364 pos.      342 -     361 sp|P47787|THAS_PIG Thromboxane-A synthase OS=Sus scrofa GN=TBXAS1 PE=2 SV=1
+   3.640    364 pos.      331 -     350 sp|Q69XM6|C7344_ORYSJ Cytochrome P450 734A4 OS=Oryza sativa subsp. japonica GN=CYP734A4 PE=2 SV=1
+   3.640    364 pos.      306 -     325 sp|Q98T91|C340_ORYLA Cytochrome P450 3A40 OS=Oryzias latipes GN=cyp3a40 PE=2 SV=1
+   3.640    364 pos.      299 -     318 sp|P56593|CP2AC_MOUSE Cytochrome P450 2A12 OS=Mus musculus GN=Cyp2a12 PE=1 SV=2
+   3.640    364 pos.      299 -     318 sp|P11711|CP2A1_RAT Cytochrome P450 2A1 OS=Rattus norvegicus GN=Cyp2a1 PE=1 SV=2
+   3.640    364 pos.      272 -     291 sp|Q6UEG2|AFLN_ASPPA P450 monooxygenase AflN OS=Aspergillus parasiticus GN=aflN PE=3 SV=1
+   3.620    362 pos.      328 -     347 sp|Q9EP75|CP4FE_MOUSE Leukotriene-B4 omega-hydroxylase 3 OS=Mus musculus GN=Cyp4f14 PE=2 SV=1
+   3.620    362 pos.      328 -     347 sp|P51869|CP4F4_RAT Cytochrome P450 4F4 OS=Rattus norvegicus GN=Cyp4f4 PE=2 SV=1
+   3.620    362 pos.      322 -     341 sp|Q9YH64|CP1A1_PLAFE Cytochrome P450 1A1 OS=Platichthys flesus GN=cyp1a1 PE=3 SV=1
+   3.620    362 pos.      322 -     341 sp|Q92100|CP1A1_PLEPL Cytochrome P450 1A1 OS=Pleuronectes platessa GN=cyp1a1 PE=2 SV=1
+   3.620    362 pos.      322 -     341 sp|O42430|CP1A1_LIMLI Cytochrome P450 1A1 OS=Limanda limanda GN=cyp1a1 PE=2 SV=1
+   3.620    362 pos.      318 -     337 sp|Q92148|CP1A1_MICTO Cytochrome P450 1A1 OS=Microgadus tomcod GN=cyp1a1 PE=2 SV=1
+   3.620    362 pos.      306 -     325 sp|P04800|CP3A1_RAT Cytochrome P450 3A1 OS=Rattus norvegicus GN=Cyp3a1 PE=1 SV=1
+   3.620    362 pos.      236 -     255 sp|Q8RN04|C5B3_AMYOR Cytochrome P450 165B3 OS=Amycolatopsis orientalis GN=cyp165B3 PE=1 SV=1
+   3.600    360 pos.      332 -     351 sp|Q2QYH7|C14C2_ORYSJ Cytochrome P450 714C2 OS=Oryza sativa subsp. japonica GN=CYP714C2 PE=2 SV=1
+   3.600    360 pos.      321 -     340 sp|Q00557|CP1A1_MESAU Cytochrome P450 1A1 OS=Mesocricetus auratus GN=CYP1A1 PE=2 SV=2
+   3.600    360 pos.      321 -     340 sp|P56590|CP1A1_CANFA Cytochrome P450 1A1 OS=Canis familiaris GN=CYP1A1 PE=2 SV=1
+   3.600    360 pos.      321 -     340 sp|P00184|CP1A1_MOUSE Cytochrome P450 1A1 OS=Mus musculus GN=Cyp1a1 PE=1 SV=2
+   3.600    360 pos.      320 -     339 sp|Q50EK4|C75A1_PINTA Cytochrome P450 750A1 OS=Pinus taeda GN=CYP750A1 PE=2 SV=1
+   3.600    360 pos.      318 -     337 sp|P30607|CP52B_CANTR Cytochrome P450 52A2 OS=Candida tropicalis GN=CYP52A2 PE=1 SV=1
+   3.600    360 pos.      317 -     336 sp|Q6GUR1|CP1A1_MACMU Cytochrome P450 1A1 OS=Macaca mulatta GN=CYP1A1 PE=2 SV=1
+   3.600    360 pos.      317 -     336 sp|P33616|CP1A1_MACFA Cytochrome P450 1A1 OS=Macaca fascicularis GN=CYP1A1 PE=2 SV=1
+   3.600    360 pos.      313 -     332 sp|Q5KQT6|CP1A2_FELCA Cytochrome P450 1A2 OS=Felis catus GN=CYP1A2 PE=2 SV=1
+   3.600    360 pos.      303 -     322 sp|Q95036|CP6B5_PAPGL Cytochrome P450 6B5 (Fragment) OS=Papilio glaucus GN=CYP6B5 PE=2 SV=1
+   3.600    360 pos.      303 -     322 sp|Q27902|CP6B4_PAPGL Cytochrome P450 6B4 OS=Papilio glaucus GN=CYP6B4 PE=2 SV=1
+   3.600    360 pos.      258 -     277 sp|P55540|CPXU_RHISN Cytochrome P450 BJ-4 homolog OS=Rhizobium sp. (strain NGR234) GN=cyp117A2 PE=3 SV=1
+   3.600    360 pos.      232 -     251 sp|P63724|CP143_MYCBO Putative cytochrome P450 143 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp143 PE=3 SV=1
+   3.600    360 pos.      232 -     251 sp|P63723|CP143_MYCTU Putative cytochrome P450 143 OS=Mycobacterium tuberculosis GN=cyp143 PE=3 SV=1
+   3.580    358 pos.      316 -     335 sp|Q15S32|NHAB_PSEA6 Na(+)/H(+) antiporter NhaB OS=Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087) GN=nhaB PE=3 SV=1
+   3.580    358 pos.      291 -     310 sp|Q50EK5|C72B2_PINTA Cytochrome P450 720B2 OS=Pinus taeda GN=CYP720B2 PE=2 SV=1
+   3.580    358 pos.      219 -     238 sp|P23296|CPXG_STRSQ Cytochrome P450 105C1 OS=Streptomyces sp. GN=cyp105C1 PE=3 SV=1
+   3.560    356 pos.      318 -     337 sp|Q964Q7|CP6D3_MUSDO Cytochrome P450 6d3 OS=Musca domestica GN=CYP6D3 PE=2 SV=1
+   3.560    356 pos.      296 -     315 sp|P19225|CP270_RAT Cytochrome P450 2C70 OS=Rattus norvegicus GN=Cyp2c70 PE=2 SV=1
+   3.540    354 pos.      318 -     337 sp|Q9VRB3|CP6V1_DROME Probable cytochrome P450 6v1 OS=Drosophila melanogaster GN=Cyp6v1 PE=2 SV=1
+   3.540    354 pos.      301 -     320 sp|P24470|CP2CN_RAT Cytochrome P450 2C23 OS=Rattus norvegicus GN=Cyp2c23 PE=2 SV=2
+   3.540    354 pos.      290 -     309 sp|P15540|CP21A_PIG Steroid 21-hydroxylase OS=Sus scrofa GN=CYP21 PE=1 SV=2
+   3.540    354 pos.      289 -     308 sp|Q8WNW0|CP21A_CANFA Steroid 21-hydroxylase OS=Canis familiaris GN=CYP21 PE=3 SV=1
+   3.540    354 pos.      289 -     308 sp|Q2LCM1|CP21A_CANLU Steroid 21-hydroxylase OS=Canis lupus GN=CYP21 PE=3 SV=1
+   3.540    354 pos.      289 -     308 sp|Q2LA60|CP21A_FELCA Steroid 21-hydroxylase OS=Felis catus GN=CYP21 PE=3 SV=1
+   3.540    354 pos.      289 -     308 sp|Q2LA59|CP21A_LYNLY Steroid 21-hydroxylase OS=Lynx lynx GN=CYP21 PE=3 SV=1
+   3.540    354 pos.      286 -     305 sp|P03940|CP21A_MOUSE Steroid 21-hydroxylase OS=Mus musculus GN=Cyp21 PE=2 SV=3
+   3.520    352 pos.      321 -     340 sp|P00185|CP1A1_RAT Cytochrome P450 1A1 OS=Rattus norvegicus GN=Cyp1a1 PE=1 SV=1
+   3.520    352 pos.      304 -     323 sp|Q9PVE8|C330_FUNHE Cytochrome P450 3A30 OS=Fundulus heteroclitus GN=cyp3a30 PE=2 SV=2
+   3.520    352 pos.      304 -     323 sp|Q8AXY5|C356_FUNHE Cytochrome P450 3A56 OS=Fundulus heteroclitus GN=cyp3a56 PE=2 SV=1
+   3.520    352 pos.      253 -     272 sp|P63712|CP126_MYCBO Putative cytochrome P450 126 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp126 PE=3 SV=1
+   3.520    352 pos.      253 -     272 sp|P63711|CP126_MYCTU Putative cytochrome P450 126 OS=Mycobacterium tuberculosis GN=cyp126 PE=3 SV=1
+   3.500    350 pos.      317 -     336 sp|P04798|CP1A1_HUMAN Cytochrome P450 1A1 OS=Homo sapiens GN=CYP1A1 PE=1 SV=1
+   3.500    350 pos.      317 -     336 sp|P00187|CP1A2_RABIT Cytochrome P450 1A2 OS=Oryctolagus cuniculus GN=CYP1A2 PE=1 SV=3
+   3.500    350 pos.      315 -     334 sp|P38364|PID6_FUSSO Pisatin demethylase OS=Fusarium solani subsp. pisi GN=PDA6-1 PE=3 SV=1
+   3.500    350 pos.      305 -     324 sp|Q9V4T3|C4AD1_DROME Probable cytochrome P450 4ad1 OS=Drosophila melanogaster GN=Cyp4ad1 PE=2 SV=1
+   3.500    350 pos.      291 -     310 sp|Q50EK6|C72B1_PINTA Abietadienol/abietadienal oxidase OS=Pinus taeda GN=CYP720B1 PE=1 SV=1
+   3.500    350 pos.      289 -     308 sp|Q64562|CP21A_RAT Steroid 21-hydroxylase OS=Rattus norvegicus GN=Cyp21 PE=2 SV=1
+   3.500    350 pos.      288 -     307 sp|Q6F4F5|C724B_ORYSJ Cytochrome P450 724B1 OS=Oryza sativa subsp. japonica GN=CYP724B1 PE=1 SV=1
+   3.480    348 pos.       91 -     110 sp|Q29478|CP2CV_CAPAE Cytochrome P450 2C31 (Fragment) OS=Capra aegagrus GN=CYP2C31 PE=2 SV=1
+   3.480    348 pos.      314 -     333 sp|Q8N1L4|CP4Z2_HUMAN Putative inactive cytochrome P450 family member 4Z2 OS=Homo sapiens GN=CYP4Z2P PE=5 SV=2
+   3.480    348 pos.      313 -     332 sp|P56592|CP1A2_CANFA Cytochrome P450 1A2 OS=Canis familiaris GN=CYP1A2 PE=1 SV=2
+   3.480    348 pos.      309 -     328 sp|Q96581|C75A4_GENTR Flavonoid 3',5'-hydroxylase OS=Gentiana triflora GN=CYP75A4 PE=2 SV=1
+   3.480    348 pos.      302 -     321 sp|P70687|CP17A_MESAU Steroid 17-alpha-hydroxylase/17,20 lyase OS=Mesocricetus auratus GN=CYP17A1 PE=2 SV=1
+   3.480    348 pos.      301 -     320 sp|Q16696|CP2AD_HUMAN Cytochrome P450 2A13 OS=Homo sapiens GN=CYP2A13 PE=1 SV=3
+   3.480    348 pos.      301 -     320 sp|P20853|CP2A7_HUMAN Cytochrome P450 2A7 OS=Homo sapiens GN=CYP2A7 PE=1 SV=2
+   3.480    348 pos.      301 -     320 sp|P20852|CP2A5_MOUSE Cytochrome P450 2A5 OS=Mus musculus GN=Cyp2a5 PE=2 SV=1
+   3.480    348 pos.      301 -     320 sp|P20812|CP2A3_RAT Cytochrome P450 2A3 OS=Rattus norvegicus GN=Cyp2a3 PE=2 SV=1
+   3.480    348 pos.      297 -     316 sp|P56657|CP240_MOUSE Cytochrome P450 2C40 OS=Mus musculus GN=Cyp2c40 PE=2 SV=2
+   3.480    348 pos.      239 -     258 sp|P63708|CP123_MYCBO Putative cytochrome P450 123 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp123 PE=3 SV=1
+   3.480    348 pos.      239 -     258 sp|P63707|CP123_MYCTU Putative cytochrome P450 123 OS=Mycobacterium tuberculosis GN=cyp123 PE=3 SV=1
+   3.460    346 pos.      301 -     320 sp|B5BSX1|BAMO_GLYUR Beta-amyrin 11-oxidase OS=Glycyrrhiza uralensis GN=CYP88D6 PE=1 SV=1
+   3.460    346 pos.      296 -     315 sp|Q91W64|CP270_MOUSE Cytochrome P450 2C70 OS=Mus musculus GN=Cyp2c70 PE=2 SV=2
+   3.460    346 pos.      295 -     314 sp|Q9V4U9|C6A13_DROME Probable cytochrome P450 6a13 OS=Drosophila melanogaster GN=Cyp6a13 PE=2 SV=1
+   3.440    344 pos.      328 -     347 sp|Q9FF18|C7351_ARATH Cytokinin hydroxylase OS=Arabidopsis thaliana GN=CYP735A1 PE=1 SV=1
+   3.440    344 pos.      321 -     340 sp|Q5TCH4|CP4AM_HUMAN Cytochrome P450 4A22 OS=Homo sapiens GN=CYP4A22 PE=1 SV=1
+   3.440    344 pos.      321 -     340 sp|Q02928|CP4AB_HUMAN Cytochrome P450 4A11 OS=Homo sapiens GN=CYP4A11 PE=1 SV=1
+   3.440    344 pos.      305 -     324 sp|Q96418|C75A5_EUSER Flavonoid 3',5'-hydroxylase OS=Eustoma exaltatum subsp. russellianum GN=CYP75A5 PE=2 SV=1
+   3.440    344 pos.      305 -     324 sp|O04790|C75A7_EUSER Flavonoid 3',5'-hydroxylase OS=Eustoma exaltatum subsp. russellianum GN=CYP75A7 PE=2 SV=1
+   3.420    342 pos.      320 -     339 sp|Q27516|C13A8_CAEEL Putative cytochrome P450 CYP13A8 OS=Caenorhabditis elegans GN=cyp-13A8 PE=3 SV=2
+   3.420    342 pos.      313 -     332 sp|Q06367|CP1A1_CAVPO Cytochrome P450 1A1 OS=Cavia porcellus GN=CYP1A1 PE=1 SV=1
+   3.420    342 pos.      306 -     325 sp|Q54F47|C513C_DICDI Probable cytochrome P450 513C1 OS=Dictyostelium discoideum GN=cyp513C1 PE=3 SV=1
+   3.420    342 pos.      301 -     320 sp|P27786|CP17A_MOUSE Steroid 17-alpha-hydroxylase/17,20 lyase OS=Mus musculus GN=Cyp17a1 PE=2 SV=1
+   3.420    342 pos.      297 -     316 sp|P20814|CP2CD_RAT Cytochrome P450 2C13, male-specific OS=Rattus norvegicus GN=Cyp2c13 PE=1 SV=1
+   3.420    342 pos.      234 -     253 sp|P63720|CP139_MYCBO Putative cytochrome P450 139 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp139 PE=3 SV=1
+   3.420    342 pos.      234 -     253 sp|P63719|CP139_MYCTU Putative cytochrome P450 139 OS=Mycobacterium tuberculosis GN=cyp139 PE=3 SV=1
+   3.400    340 pos.      326 -     345 sp|Q09653|C13AA_CAEEL Putative cytochrome P450 CYP13A10 OS=Caenorhabditis elegans GN=cyp-13A10 PE=3 SV=3
+   3.400    340 pos.      315 -     334 sp|Q8SPK1|CP4AO_PIG Cytochrome P450 4A24 OS=Sus scrofa GN=CYP4A24 PE=2 SV=1
+   3.400    340 pos.      315 -     334 sp|Q8SPK0|CP4AP_PIG Cytochrome P450 4A25 OS=Sus scrofa GN=CYP4A25 PE=2 SV=1
+   3.400    340 pos.      312 -     331 sp|Q12573|CP52W_CANAP Cytochrome P450 52E2 OS=Candida apicola GN=CYP52E2 PE=3 SV=1
+   3.400    340 pos.      293 -     312 sp|Q9VYQ7|CP311_DROME Probable cytochrome P450 311a1 OS=Drosophila melanogaster GN=Cyp311a1 PE=2 SV=1
+   3.400    340 pos.      106 -     125 sp|P80092|CBPX1_SULSO Thermostable carboxypeptidase 1 OS=Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) GN=cpsA1 PE=1 SV=2
+   3.400    340 pos.      106 -     125 sp|P58156|CBPX2_SULSO Thermostable carboxypeptidase 2 OS=Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) GN=cpsA2 PE=3 SV=1
+   3.380    338 pos.      374 -     393 sp|H2KYS3|DAF9_CAEEL Cytochrome P450 daf-9 OS=Caenorhabditis elegans GN=daf-9 PE=1 SV=1
+   3.380    338 pos.      324 -     343 sp|P56591|CP1A1_SHEEP Cytochrome P450 1A1 OS=Ovis aries GN=CYP1A1 PE=2 SV=1
+   3.380    338 pos.      321 -     340 sp|Q3LFU0|CP1A1_BALAC Cytochrome P450 1A1 OS=Balaenoptera acutorostrata GN=CYP1A1 PE=2 SV=1
+   3.380    338 pos.      310 -     329 sp|P30612|CP52P_CANTR Cytochrome P450 52C1 OS=Candida tropicalis GN=CYP52C1 PE=2 SV=1
+   3.380    338 pos.      309 -     328 sp|P30437|CP17A_ONCMY Steroid 17-alpha-hydroxylase/17,20 lyase OS=Oncorhynchus mykiss GN=cyp17a1 PE=2 SV=1
+   3.380    338 pos.      302 -     321 sp|Q9SD85|F3PH_ARATH Flavonoid 3'-monooxygenase OS=Arabidopsis thaliana GN=CYP75B1 PE=1 SV=1
+   3.380    338 pos.      301 -     320 sp|Q05556|CP2AB_RABIT Cytochrome P450 2A11 OS=Oryctolagus cuniculus GN=CYP2A11 PE=1 SV=1
+   3.380    338 pos.      301 -     320 sp|Q05555|CP2AA_RABIT Cytochrome P450 2A10 OS=Oryctolagus cuniculus GN=CYP2A10 PE=1 SV=1
+   3.360    336 pos.      340 -     359 sp|Q43068|C82A1_PEA Cytochrome P450 82A1 (Fragment) OS=Pisum sativum GN=CYP82A1 PE=2 SV=2
+   3.360    336 pos.      318 -     337 sp|P20817|CP4AE_RAT Cytochrome P450 4A14 OS=Rattus norvegicus GN=Cyp4a14 PE=1 SV=2
+   3.360    336 pos.      315 -     334 sp|P20816|CP4A2_RAT Cytochrome P450 4A2 OS=Rattus norvegicus GN=Cyp4a2 PE=1 SV=2
+   3.360    336 pos.      311 -     330 sp|O64635|C76C4_ARATH Cytochrome P450 76C4 OS=Arabidopsis thaliana GN=CYP76C4 PE=3 SV=1
+   3.360    336 pos.      302 -     321 sp|Q9GMC8|CP17A_FELCA Steroid 17-alpha-hydroxylase/17,20 lyase OS=Felis catus GN=CYP17A1 PE=2 SV=1
+   3.360    336 pos.      297 -     316 sp|P33260|CP2CI_HUMAN Cytochrome P450 2C18 OS=Homo sapiens GN=CYP2C18 PE=1 SV=3
+   3.360    336 pos.      287 -     306 sp|Q9VWR2|CP308_DROME Probable cytochrome P450 308a1 OS=Drosophila melanogaster GN=Cyp308a1 PE=2 SV=2
+   3.340    334 pos.      315 -     334 sp|Q12645|PID9_FUSSO Pisatin demethylase OS=Fusarium solani subsp. pisi GN=PDAT9 PE=3 SV=1
+   3.340    334 pos.      312 -     331 sp|P43083|CP52V_CANAP Cytochrome P450 52E1 OS=Candida apicola GN=CYP52E1 PE=3 SV=1
+   3.340    334 pos.      311 -     330 sp|O04164|C71A6_NEPRA Cytochrome P450 71A6 (Fragment) OS=Nepeta racemosa GN=CYP71A6 PE=2 SV=1
+   3.340    334 pos.      309 -     328 sp|P37122|C76A2_SOLME Cytochrome P450 76A2 OS=Solanum melongena GN=CYP76A2 PE=2 SV=1
+   3.340    334 pos.      301 -     320 sp|P24461|CP2G1_RABIT Cytochrome P450 2G1 OS=Oryctolagus cuniculus GN=CYP2G1 PE=1 SV=1
+   3.340    334 pos.      297 -     316 sp|P56654|CP237_MOUSE Cytochrome P450 2C37 OS=Mus musculus GN=Cyp2c37 PE=2 SV=2
+   3.340    334 pos.      271 -     290 sp|P37121|C76A1_SOLME Cytochrome P450 76A1 (Fragment) OS=Solanum melongena GN=CYP76A1 PE=2 SV=1
+   3.340    334 pos.      258 -     277 sp|Q59205|CPXU_BRADU Cytochrome P450 BJ-4 OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / IAM 13628 / NBRC 14792 / USDA 110) GN=cyp117 PE=3 SV=2
+   3.320    332 pos.       54 -      73 sp|Q01741|CP1A2_CHICK Cytochrome P450 1A2 (Fragment) OS=Gallus gallus GN=CYP1A2 PE=2 SV=1
+   3.320    332 pos.      334 -     353 sp|Q964T2|CP9E2_BLAGE Cytochrome P450 9e2 OS=Blattella germanica GN=CYP9E2 PE=2 SV=1
+   3.320    332 pos.      320 -     339 sp|Q9V776|CP317_DROME Probable cytochrome P450 317a1 OS=Drosophila melanogaster GN=Cyp317a1 PE=3 SV=2
+   3.320    332 pos.      309 -     328 sp|Q9VW43|CP305_DROME Probable cytochrome P450 305a1 OS=Drosophila melanogaster GN=Cyp305a1 PE=2 SV=1
+   3.320    332 pos.      296 -     315 sp|Q12732|AVNA_ASPPA Averantin hydroxylase OS=Aspergillus parasiticus GN=avnA PE=1 SV=2
+   3.300    330 pos.      329 -     348 sp|Q9DBW0|CP4V2_MOUSE Cytochrome P450 4V2 OS=Mus musculus GN=Cyp4v2 PE=1 SV=1
+   3.300    330 pos.      324 -     343 sp|O48786|C734A_ARATH Cytochrome P450 734A1 OS=Arabidopsis thaliana GN=CYP734A1 PE=2 SV=1
+   3.300    330 pos.      322 -     341 sp|Q9LUC6|C7A14_ARATH Cytochrome P450 72A14 OS=Arabidopsis thaliana GN=CYP72A14 PE=2 SV=1
+   3.300    330 pos.      322 -     341 sp|Q9LUC5|C7A15_ARATH Cytochrome P450 72A15 OS=Arabidopsis thaliana GN=CYP72A15 PE=2 SV=1
+   3.300    330 pos.      318 -     337 sp|Q9VCW1|CP6D4_DROME Probable cytochrome P450 6d4 OS=Drosophila melanogaster GN=Cyp6d4 PE=2 SV=1
+   3.300    330 pos.      316 -     335 sp|Q9VLZ7|C4D21_DROME Probable cytochrome P450 4d21 OS=Drosophila melanogaster GN=Cyp4d21 PE=3 SV=1
+   3.300    330 pos.      315 -     334 sp|Q078T0|PHACB_EMEND 3-hydroxyphenylacetate 6-hydroxylase OS=Emericella nidulans GN=phacB PE=1 SV=1
+   3.300    330 pos.      313 -     332 sp|Q12587|CP52Q_CANMA Cytochrome P450 52C2 OS=Candida maltosa GN=CYP52C2 PE=2 SV=1
+   3.300    330 pos.      311 -     330 sp|O64989|C90B1_ARATH Cytochrome P450 90B1 OS=Arabidopsis thaliana GN=CYP90B1 PE=1 SV=2
+   3.300    330 pos.      311 -     330 sp|O64636|C76C1_ARATH Cytochrome P450 76C1 OS=Arabidopsis thaliana GN=CYP76C1 PE=2 SV=1
+   3.300    330 pos.      305 -     324 sp|Q64148|CP3AA_MESAU Lithocholate 6-beta-hydroxylase OS=Mesocricetus auratus GN=CYP3A10 PE=1 SV=2
+   3.300    330 pos.      304 -     323 sp|Q9SBQ9|F3PH_PETHY Flavonoid 3'-monooxygenase OS=Petunia hybrida GN=CYP75B2 PE=2 SV=1
+   3.300    330 pos.      298 -     317 sp|Q9XHE8|C71DI_MENSP Cytochrome P450 71D18 OS=Mentha spicata GN=CYP71D18 PE=1 SV=1
+   3.300    330 pos.      298 -     317 sp|Q6WKZ1|C71DI_MENGR Cytochrome P450 71D18 OS=Mentha gracilis GN=CYP71D18 PE=1 SV=1
+   3.300    330 pos.      297 -     316 sp|Q9UW95|AFLL_ASPPA Versicolorin B desaturase OS=Aspergillus parasiticus GN=verB PE=3 SV=1
+   3.300    330 pos.      297 -     316 sp|Q9D816|CP255_MOUSE Cytochrome P450 2C55 OS=Mus musculus GN=Cyp2c55 PE=2 SV=1
+   3.300    330 pos.      297 -     316 sp|Q91X77|CY250_MOUSE Cytochrome P450 2C50 OS=Mus musculus GN=Cyp2c50 PE=1 SV=2
+   3.300    330 pos.      297 -     316 sp|Q64458|CP2CT_MOUSE Cytochrome P450 2C29 OS=Mus musculus GN=Cyp2c29 PE=1 SV=2
+   3.280    328 pos.      362 -     381 sp|Q4WAW5|FTMC_ASPFU Tryprostatin B 6-hydroxylase OS=Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) GN=ftmP450-1 PE=3 SV=2
+   3.280    328 pos.      362 -     381 sp|B9WZX1|FTMC_ASPFM Tryprostatin B 6-hydroxylase OS=Neosartorya fumigata GN=ftmP450-1 PE=1 SV=1
+   3.280    328 pos.      322 -     341 sp|Q9LUC8|C7A13_ARATH Cytochrome P450 72A13 OS=Arabidopsis thaliana GN=CYP72A13 PE=2 SV=1
+   3.280    328 pos.      314 -     333 sp|Q12612|TRI4_FUSSP Trichodiene oxygenase OS=Fusarium sporotrichioides GN=TRI4 PE=3 SV=1
+   3.280    328 pos.      303 -     322 sp|Q27756|CP6B3_PAPPO Cytochrome P450 6B3 OS=Papilio polyxenes GN=CYP6B3 PE=2 SV=1
+   3.280    328 pos.      303 -     322 sp|Q04552|CP6B1_PAPPO Cytochrome P450 6B1 OS=Papilio polyxenes GN=CYP6B1 PE=1 SV=1
+   3.280    328 pos.      298 -     317 sp|P20678|CP2H2_CHICK Cytochrome P450 2H2 OS=Gallus gallus GN=CYP2H2 PE=1 SV=1
+   3.280    328 pos.      298 -     317 sp|P05180|CP2H1_CHICK Cytochrome P450 2H1 OS=Gallus gallus GN=CYP2H1 PE=2 SV=1
+   3.260    326 pos.      377 -     396 sp|Q93VK5|LUT5_ARATH Protein LUTEIN DEFICIENT 5, chloroplastic OS=Arabidopsis thaliana GN=CYP97A3 PE=1 SV=1
+   3.260    326 pos.      333 -     352 sp|H2DH17|C7A22_PANGI Cytochrome P450 CYP749A22 OS=Panax ginseng PE=2 SV=1
+   3.260    326 pos.      329 -     348 sp|Q6ZWL3|CP4V2_HUMAN Cytochrome P450 4V2 OS=Homo sapiens GN=CYP4V2 PE=1 SV=2
+   3.260    326 pos.      329 -     348 sp|A2RRT9|CP4V2_RAT Cytochrome P450 4V2 OS=Rattus norvegicus GN=Cyp4v2 PE=2 SV=1
+   3.260    326 pos.      322 -     341 sp|P14581|CP4A7_RABIT Cytochrome P450 4A7 OS=Oryctolagus cuniculus GN=CYP4A7 PE=1 SV=1
+   3.260    326 pos.      321 -     340 sp|P14580|CP4A6_RABIT Cytochrome P450 4A6 OS=Oryctolagus cuniculus GN=CYP4A6 PE=1 SV=1
+   3.260    326 pos.      318 -     337 sp|O35728|CP4AE_MOUSE Cytochrome P450 4A14 OS=Mus musculus GN=Cyp4a14 PE=2 SV=1
+   3.260    326 pos.      305 -     324 sp|O73853|CP17A_ICTPU Steroid 17-alpha-hydroxylase/17,20 lyase OS=Ictalurus punctatus GN=cyp17a1 PE=2 SV=1
+   3.260    326 pos.      305 -     324 sp|O09158|CP3AP_MOUSE Cytochrome P450 3A25 OS=Mus musculus GN=Cyp3a25 PE=2 SV=1
+   3.260    326 pos.      297 -     316 sp|P56656|CP239_MOUSE Cytochrome P450 2C39 OS=Mus musculus GN=Cyp2c39 PE=2 SV=2
+   3.260    326 pos.      297 -     316 sp|P56655|CP238_MOUSE Cytochrome P450 2C38 OS=Mus musculus GN=Cyp2c38 PE=2 SV=2
+   3.260    326 pos.      267 -     286 sp|P0A517|CP124_MYCBO Putative cytochrome P450 124 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp124 PE=3 SV=1
+   3.260    326 pos.      267 -     286 sp|P0A516|CP124_MYCTU Putative cytochrome P450 124 OS=Mycobacterium tuberculosis GN=cyp124 PE=1 SV=1
+   3.240    324 pos.      326 -     345 sp|P79761|CP1A5_CHICK Cytochrome P450 1A5 OS=Gallus gallus GN=CYP1A5 PE=2 SV=1
+   3.240    324 pos.      321 -     340 sp|P05176|CP1A1_RABIT Cytochrome P450 1A1 OS=Oryctolagus cuniculus GN=CYP1A1 PE=2 SV=1
+   3.240    324 pos.      317 -     336 sp|Q64391|CP1A2_CAVPO Cytochrome P450 1A2 OS=Cavia porcellus GN=CYP1A2 PE=2 SV=1
+   3.240    324 pos.      317 -     336 sp|Q5RBQ1|CP1A2_PONAB Cytochrome P450 1A2 OS=Pongo abelii GN=CYP1A2 PE=2 SV=3
+   3.240    324 pos.      317 -     336 sp|P05177|CP1A2_HUMAN Cytochrome P450 1A2 OS=Homo sapiens GN=CYP1A2 PE=1 SV=3
+   3.240    324 pos.      302 -     321 sp|Q8HYN1|CP17A_PANTR Steroid 17-alpha-hydroxylase/17,20 lyase OS=Pan troglodytes GN=CYP17A1 PE=2 SV=1
+   3.240    324 pos.      302 -     321 sp|P05093|CP17A_HUMAN Steroid 17-alpha-hydroxylase/17,20 lyase OS=Homo sapiens GN=CYP17A1 PE=1 SV=1
+   3.240    324 pos.      302 -     321 sp|O48956|C98A1_SORBI Cytochrome P450 98A1 OS=Sorghum bicolor GN=CYP98A1 PE=2 SV=1
+   3.240    324 pos.      292 -     311 sp|O64900|C80B2_ESCCA (S)-N-methylcoclaurine 3'-hydroxylase isozyme 2 OS=Eschscholzia californica GN=CYP80B2 PE=2 SV=1
+   3.240    324 pos.      291 -     310 sp|O64899|C80B1_ESCCA (S)-N-methylcoclaurine 3'-hydroxylase isozyme 1 (Fragment) OS=Eschscholzia californica GN=CYP80B1 PE=2 SV=1
+   3.240    324 pos.      256 -     275 sp|P0A513|CP51_MYCBO Lanosterol 14-alpha demethylase OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp51 PE=3 SV=1
+   3.240    324 pos.      256 -     275 sp|P0A512|CP51_MYCTU Lanosterol 14-alpha demethylase OS=Mycobacterium tuberculosis GN=cyp51 PE=1 SV=1
+   3.220    322 pos.      340 -     359 sp|Q8LIF2|C7345_ORYSJ Cytochrome P450 734A5 OS=Oryza sativa subsp. japonica GN=CYP734A5 PE=2 SV=1
+   3.220    322 pos.      317 -     336 sp|Q9VMS7|C4AC3_DROME Probable cytochrome P450 4ac3 OS=Drosophila melanogaster GN=Cyp4ac3 PE=2 SV=2
+   3.220    322 pos.      316 -     335 sp|Q9W011|C4D20_DROME Probable cytochrome P450 4d20 OS=Drosophila melanogaster GN=Cyp4d20 PE=3 SV=1
+   3.220    322 pos.      301 -     320 sp|P11509|CP2A6_HUMAN Cytochrome P450 2A6 OS=Homo sapiens GN=CYP2A6 PE=1 SV=3
+   3.220    322 pos.      257 -     276 sp|Q5IZM4|CP51_MYCVP Lanosterol 14-alpha demethylase OS=Mycobacterium vanbaalenii (strain DSM 7251 / PYR-1) GN=cyp51 PE=3 SV=1
+   3.220    322 pos.      243 -     262 sp|Q11062|CP130_MYCTU Cytochrome P450 130 OS=Mycobacterium tuberculosis GN=cyp130 PE=1 SV=1
+   3.200    320 pos.      334 -     353 sp|H1A981|C7263_MEDTR 11-oxo-beta-amyrin 30-oxidase OS=Medicago truncatula GN=CYP72A63 PE=1 SV=1
+   3.200    320 pos.      307 -     326 sp|O44221|CP4E5_DROMT Cytochrome P450 4e5, mitochondrial OS=Drosophila mettleri GN=Cyp4e5 PE=2 SV=1
+   3.200    320 pos.      304 -     323 sp|Q9C788|C70B1_ARATH Cytochrome P450 704B1 OS=Arabidopsis thaliana GN=CYP704B1 PE=2 SV=1
+   3.200    320 pos.      301 -     320 sp|P90771|C36A1_CAEEL Probable cytochrome P450 CYP36A1 OS=Caenorhabditis elegans GN=cyp-36A1 PE=3 SV=2
+   3.200    320 pos.      300 -     319 sp|P24455|CP2A9_MESAU Cytochrome P450 2A9 OS=Mesocricetus auratus GN=CYP2A9 PE=2 SV=2
+   3.200    320 pos.      299 -     318 sp|Q9MZY0|CP2E1_CANFA Cytochrome P450 2E1 OS=Canis familiaris GN=CYP2E1 PE=2 SV=1
+   3.200    320 pos.      299 -     318 sp|Q6GUQ4|CP2E1_MACMU Cytochrome P450 2E1 OS=Macaca mulatta GN=CYP2E1 PE=2 SV=1
+   3.200    320 pos.      299 -     318 sp|Q05421|CP2E1_MOUSE Cytochrome P450 2E1 OS=Mus musculus GN=Cyp2e1 PE=2 SV=1
+   3.200    320 pos.      299 -     318 sp|P79383|CP2E1_PIG Cytochrome P450 2E1 OS=Sus scrofa GN=CYP2E1 PE=2 SV=1
+   3.200    320 pos.      299 -     318 sp|P51581|CP2E1_MESAU Cytochrome P450 2E1 OS=Mesocricetus auratus GN=CYP2E1 PE=2 SV=1
+   3.200    320 pos.      299 -     318 sp|P05182|CP2E1_RAT Cytochrome P450 2E1 OS=Rattus norvegicus GN=Cyp2e1 PE=1 SV=4
+   3.200    320 pos.      299 -     318 sp|P05181|CP2E1_HUMAN Cytochrome P450 2E1 OS=Homo sapiens GN=CYP2E1 PE=1 SV=1
+   3.200    320 pos.      299 -     318 sp|O18963|CP2E1_BOVIN Cytochrome P450 2E1 OS=Bos taurus GN=CYP2E1 PE=2 SV=1
+   3.200    320 pos.      293 -     312 sp|Q55BU9|C5133_DICDI Probable cytochrome P450 513A3 OS=Dictyostelium discoideum GN=cyp513A3 PE=3 SV=1
+   3.200    320 pos.      274 -     293 sp|O33180|CP144_MYCTU Cytochrome P450 144 OS=Mycobacterium tuberculosis GN=cyp144 PE=1 SV=1
+   3.200    320 pos.      255 -     274 sp|P33266|CP2E1_MACFA Cytochrome P450 2E1 (Fragment) OS=Macaca fascicularis GN=CYP2E1 PE=2 SV=1
+   3.180    318 pos.      332 -     351 sp|Q05047|C72A1_CATRO Secologanin synthase OS=Catharanthus roseus GN=CYP72A1 PE=2 SV=1
+   3.180    318 pos.      325 -     344 sp|Q7KR10|CCD1D_DROME Probable cytochrome P450 12d1 distal, mitochondrial OS=Drosophila melanogaster GN=Cyp12d1-d PE=2 SV=1
+   3.180    318 pos.      325 -     344 sp|P82712|CCD1P_DROME Probable cytochrome P450 12d1 proximal, mitochondrial OS=Drosophila melanogaster GN=Cyp12d1-p PE=2 SV=3
+   3.180    318 pos.      322 -     341 sp|Q9ZW95|C7352_ARATH Cytokinin hydroxylase OS=Arabidopsis thaliana GN=CYP735A2 PE=1 SV=1
+   3.180    318 pos.      313 -     332 sp|Q9V4U7|C6A14_DROME Probable cytochrome P450 6a14 OS=Drosophila melanogaster GN=Cyp6a14 PE=3 SV=2
+   3.180    318 pos.      312 -     331 sp|Q1ZXI7|C513F_DICDI Probable cytochrome P450 513F1 OS=Dictyostelium discoideum GN=cyp513F1 PE=3 SV=1
+   3.180    318 pos.      306 -     325 sp|Q9VMT5|C28D1_DROME Probable cytochrome P450 28d1 OS=Drosophila melanogaster GN=Cyp28d1 PE=2 SV=1
+   3.180    318 pos.      305 -     324 sp|Q964R1|CP6J1_BLAGE Cytochrome P450 6j1 OS=Blattella germanica GN=CYP6J1 PE=2 SV=1
+   3.180    318 pos.      301 -     320 sp|P10610|CP2G1_RAT Cytochrome P450 2G1 OS=Rattus norvegicus GN=Cyp2g1 PE=2 SV=1
+   3.180    318 pos.      268 -     287 sp|P63710|CP125_MYCBO Steroid C26-monooxygenase OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp125 PE=1 SV=1
+   3.180    318 pos.      268 -     287 sp|P63709|CP125_MYCTU Steroid C26-monooxygenase OS=Mycobacterium tuberculosis GN=cyp125 PE=1 SV=1
+   3.160    316 pos.      322 -     341 sp|Q92110|CP1A1_ONCMY Cytochrome P450 1A1 OS=Oncorhynchus mykiss GN=cyp1a1 PE=2 SV=2
+   3.160    316 pos.      322 -     341 sp|Q92109|CP1A3_ONCMY Cytochrome P450 1A3 OS=Oncorhynchus mykiss GN=cyp1a3 PE=2 SV=2
+   3.160    316 pos.      322 -     341 sp|Q92039|CP1A1_CHACA Cytochrome P450 1A1 OS=Chaetodon capistratus GN=cyp1a1 PE=2 SV=1
+   3.160    316 pos.      322 -     341 sp|P14579|CP4A5_RABIT Cytochrome P450 4A5 OS=Oryctolagus cuniculus GN=CYP4A5 PE=2 SV=1
+   3.160    316 pos.      321 -     340 sp|P10611|CP4A4_RABIT Cytochrome P450 4A4 OS=Oryctolagus cuniculus GN=CYP4A4 PE=1 SV=3
+   3.160    316 pos.      320 -     339 sp|P08516|CP4AA_RAT Cytochrome P450 4A10 OS=Rattus norvegicus GN=Cyp4a10 PE=1 SV=2
+   3.160    316 pos.      320 -     339 sp|O88833|CP4AA_MOUSE Cytochrome P450 4A10 OS=Mus musculus GN=Cyp4a10 PE=2 SV=2
+   3.160    316 pos.      317 -     336 sp|O77810|CP1A2_CALJA Cytochrome P450 1A2 OS=Callithrix jacchus GN=CYP1A2 PE=2 SV=3
+   3.160    316 pos.      301 -     320 sp|Q9LIP6|C71BV_ARATH Cytochrome P450 71B34 OS=Arabidopsis thaliana GN=CYP71B34 PE=2 SV=1
+   3.140    314 pos.      319 -     338 sp|Q91WL5|CP4CA_MOUSE Cytochrome P450 4A12A OS=Mus musculus GN=Cyp4a12a PE=2 SV=2
+   3.140    314 pos.      319 -     338 sp|P24464|CP4AC_RAT Cytochrome P450 4A12 OS=Rattus norvegicus GN=Cyp4a12 PE=2 SV=2
+   3.140    314 pos.      316 -     335 sp|Q8N118|CP4X1_HUMAN Cytochrome P450 4X1 OS=Homo sapiens GN=CYP4X1 PE=2 SV=1
+   3.140    314 pos.      313 -     332 sp|P98188|C94A2_VICSA Cytochrome P450 94A2 OS=Vicia sativa GN=CYP94A2 PE=2 SV=1
+   3.140    314 pos.      308 -     327 sp|Q42716|C71A8_MENPI Cytochrome P450 71A8 OS=Mentha piperita GN=CYP71A8 PE=3 SV=1
+   3.140    314 pos.      300 -     319 sp|Q91Z85|CP17A_PERLE Steroid 17-alpha-hydroxylase/17,20 lyase OS=Peromyscus leucopus GN=Cyp17a1 PE=3 SV=1
+   3.140    314 pos.      291 -     310 sp|Q9STK7|C71AQ_ARATH Cytochrome P450 71A26 OS=Arabidopsis thaliana GN=CYP71A26 PE=3 SV=1
+   3.140    314 pos.      209 -     228 sp|Q55080|CP119_SULAC Cytochrome P450 119 OS=Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770) GN=cyp119 PE=1 SV=1
+   3.120    312 pos.      317 -     336 sp|O77809|CP1A2_MACFA Cytochrome P450 1A2 OS=Macaca fascicularis GN=CYP1A2 PE=1 SV=3
+   3.120    312 pos.      312 -     331 sp|Q9V7G5|C4AA1_DROME Probable cytochrome P450 4aa1 OS=Drosophila melanogaster GN=Cyp4aa1 PE=2 SV=2
+   3.120    312 pos.      297 -     316 sp|P05178|CP2C6_RAT Cytochrome P450 2C6 OS=Rattus norvegicus GN=Cyp2c6 PE=2 SV=2
+   3.120    312 pos.      274 -     293 sp|P77900|CP132_MYCTU Putative cytochrome P450 132 OS=Mycobacterium tuberculosis GN=cyp132 PE=3 SV=1
+   3.120    312 pos.      274 -     293 sp|P59954|CP132_MYCBO Putative cytochrome P450 132 OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) GN=cyp132 PE=3 SV=1
+   3.100    310 pos.      335 -     354 sp|Q6NT55|CP4FN_HUMAN Cytochrome P450 4F22 OS=Homo sapiens GN=CYP4F22 PE=2 SV=1
+   3.100    310 pos.      332 -     351 sp|O44220|C12B1_DROAC Cytochrome P450 12b1, mitochondrial OS=Drosophila acanthoptera GN=Cyp12b1 PE=2 SV=1
+   3.100    310 pos.      321 -     340 sp|Q9SZ46|C82C4_ARATH Cytochrome P450 82C4 OS=Arabidopsis thaliana GN=CYP82C4 PE=2 SV=1
+   3.100    310 pos.      319 -     338 sp|Q9W130|CP9C1_DROME Cytochrome P450 9c1 OS=Drosophila melanogaster GN=Cyp9c1 PE=2 SV=1
+   3.100    310 pos.      318 -     337 sp|Q27698|CP6D1_MUSDO Cytochrome P450 6d1 OS=Musca domestica GN=CYP6D1 PE=1 SV=1
+   3.100    310 pos.      316 -     335 sp|P33269|CP4D1_DROME Cytochrome P450 4d1 OS=Drosophila melanogaster GN=Cyp4d1 PE=2 SV=2
+   3.100    310 pos.      316 -     335 sp|O16805|CP4D1_DROSI Cytochrome P450 4d1 OS=Drosophila simulans GN=Cyp4d1 PE=3 SV=1
+   3.100    310 pos.      312 -     331 sp|O64637|C76C2_ARATH Cytochrome P450 76C2 OS=Arabidopsis thaliana GN=CYP76C2 PE=2 SV=1
+   3.100    310 pos.      310 -     329 sp|Q6VVX0|CP2R1_HUMAN Vitamin D 25-hydroxylase OS=Homo sapiens GN=CYP2R1 PE=1 SV=1
+   3.100    310 pos.      310 -     329 sp|Q6VVW9|CP2R1_MOUSE Vitamin D 25-hydroxylase OS=Mus musculus GN=Cyp2r1 PE=2 SV=1
+   3.100    310 pos.      308 -     327 sp|Q9LHA1|C8D11_ARATH Cytochrome P450 81D11 OS=Arabidopsis thaliana GN=CYP81D11 PE=2 SV=1
+   3.100    310 pos.      299 -     318 sp|D1MI46|C76BA_SWEMU Geraniol 8-hydroxylase OS=Swertia mussotii GN=CYP76B10 PE=1 SV=1
+   3.100    310 pos.      298 -     317 sp|Q27712|CP2L1_PANAR Cytochrome P450 2L1 OS=Panulirus argus GN=CYP2L1 PE=1 SV=1
+   3.100    310 pos.      297 -     316 sp|Q8VWZ7|C76B6_CATRO Geraniol 8-hydroxylase OS=Catharanthus roseus GN=CYP76B6 PE=1 SV=1
+   3.100    310 pos.      297 -     316 sp|P05179|CP2C7_RAT Cytochrome P450 2C7 OS=Rattus norvegicus GN=Cyp2c7 PE=1 SV=2
+   3.100    310 pos.      254 -     273 sp|Q59990|CP120_SYNY3 Putative cytochrome P450 120 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=cyp120 PE=1 SV=1
+   3.080    308 pos.      589 -     608 sp|A9WRA9|DXS_RENSM 1-deoxy-D-xylulose-5-phosphate synthase OS=Renibacterium salmoninarum (strain ATCC 33209 / DSM 20767 / JCM 11484 / NBRC 15589 / NCIMB 2235) GN=dxs PE=3 SV=1
+   3.080    308 pos.      323 -     342 sp|P79716|CP1A1_DICLA Cytochrome P450 1A1 OS=Dicentrarchus labrax GN=cyp1a1 PE=2 SV=1
+   3.080    308 pos.      322 -     341 sp|Q9W683|CP1A1_LIZSA Cytochrome P450 1A1 OS=Liza saliens GN=cyp1a1 PE=2 SV=1
+   3.080    308 pos.      322 -     341 sp|Q92116|CP1A1_STECH Cytochrome P450 1A1 OS=Stenotomus chrysops GN=cyp1a1 PE=2 SV=1
+   3.080    308 pos.      322 -     341 sp|Q5KQT7|CP1A1_FELCA Cytochrome P450 1A1 OS=Felis catus GN=CYP1A1 PE=2 SV=1
+   3.080    308 pos.      322 -     341 sp|O42457|CP1A1_SPAAU Cytochrome P450 1A1 OS=Sparus aurata GN=cyp1a1 PE=2 SV=1
+   3.080    308 pos.      316 -     335 sp|P98181|CP1A1_PAGMA Cytochrome P450 1A1 OS=Pagrus major GN=cyp1a1 PE=2 SV=1
+   3.080    308 pos.      301 -     320 sp|P11715|CP17A_RAT Steroid 17-alpha-hydroxylase/17,20 lyase OS=Rattus norvegicus GN=Cyp17a1 PE=1 SV=2
+   3.080    308 pos.      300 -     319 sp|Q9T0K2|C71AK_ARATH Cytochrome P450 71A20 OS=Arabidopsis thaliana GN=CYP71A20 PE=2 SV=2
+   3.080    308 pos.      262 -     281 sp|O08447|C135A_MYCTU Putative cytochrome P450 135A1 OS=Mycobacterium tuberculosis GN=cyp135A1 PE=3 SV=1
+   3.080    308 pos.      257 -     276 sp|Q82IY3|PTLI_STRAW Pentalenene oxygenase OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NCIMB 12804 / NRRL 8165 / MA-4680) GN=ptlI PE=1 SV=1
+   3.060    306 pos.      305 -     324 sp|P82711|C6A19_DROME Probable cytochrome P450 6a19 OS=Drosophila melanogaster GN=Cyp6a19 PE=3 SV=1
+   3.060    306 pos.      302 -     321 sp|Q9N0U7|CP17A_CAPHI Steroid 17-alpha-hydroxylase/17,20 lyase OS=Capra hircus GN=CYP17A1 PE=2 SV=1
+   3.060    306 pos.      302 -     321 sp|Q9GMC7|CP17A_BISBI Steroid 17-alpha-hydroxylase/17,20 lyase OS=Bison bison GN=CYP17A1 PE=2 SV=1
+   3.060    306 pos.      302 -     321 sp|Q9GLD2|CP17A_PAPHU Steroid 17-alpha-hydroxylase/17,20 lyase OS=Papio hamadryas ursinus GN=CYP17A1 PE=1 SV=1
+   3.060    306 pos.      302 -     321 sp|Q8HYN0|CP17A_PAPCY Steroid 17-alpha-hydroxylase/17,20 lyase OS=Papio cynocephalus GN=CYP17A1 PE=2 SV=1
+   3.060    306 pos.      302 -     321 sp|Q8HYM9|CP17A_MACMU Steroid 17-alpha-hydroxylase/17,20 lyase OS=Macaca mulatta GN=CYP17A1 PE=2 SV=1
+   3.060    306 pos.      302 -     321 sp|Q2XVA1|CP17A_MACFA Steroid 17-alpha-hydroxylase/17,20 lyase OS=Macaca fascicularis GN=CYP17A1 PE=2 SV=1
+   3.060    306 pos.      302 -     321 sp|Q29497|CP17A_SHEEP Steroid 17-alpha-hydroxylase/17,20 lyase OS=Ovis aries GN=CYP17A1 PE=2 SV=2
+   3.060    306 pos.      302 -     321 sp|P05185|CP17A_BOVIN Steroid 17-alpha-hydroxylase/17,20 lyase OS=Bos taurus GN=CYP17A1 PE=2 SV=1
+   3.060    306 pos.      300 -     319 sp|O23051|KAO1_ARATH Ent-kaurenoic acid oxidase 1 OS=Arabidopsis thaliana GN=KAO1 PE=2 SV=1
+   3.060    306 pos.      294 -     313 sp|G3GBK0|C7BL3_CICIN Costunolide synthase OS=Cichorium intybus GN=CYP71BL3 PE=1 SV=1
+   3.060    306 pos.      294 -     313 sp|F8S1I0|C7BL2_LACSA Costunolide synthase OS=Lactuca sativa GN=CYP71BL2 PE=1 SV=1
+   3.060    306 pos.      291 -     310 sp|Q9STK8|C71AP_ARATH Cytochrome P450 71A25 OS=Arabidopsis thaliana GN=CYP71A25 PE=2 SV=1
+   3.060    306 pos.      243 -     262 sp|Q06069|CPXM_BACME Cytochrome P450(MEG) OS=Bacillus megaterium GN=cyp106A2 PE=1 SV=1
+   3.040    304 pos.      342 -     361 sp|Q93Z79|C14A1_ARATH Cytochrome P450 714A1 OS=Arabidopsis thaliana GN=CYP714A1 PE=2 SV=1
+   3.040    304 pos.      304 -     323 sp|P37120|C75A2_SOLME Flavonoid 3',5'-hydroxylase OS=Solanum melongena GN=CYP75A2 PE=2 SV=1
+   3.040    304 pos.      298 -     317 sp|P12790|CP2B9_MOUSE Cytochrome P450 2B9 OS=Mus musculus GN=Cyp2b9 PE=2 SV=2
+   3.040    304 pos.      248 -     267 sp|A1WLN7|NUOH_VEREI NADH-quinone oxidoreductase subunit H OS=Verminephrobacter eiseniae (strain EF01-2) GN=nuoH PE=3 SV=1
+   3.040    304 pos.      248 -     267 sp|A1W4M9|NUOH_ACISJ NADH-quinone oxidoreductase subunit H OS=Acidovorax sp. (strain JS42) GN=nuoH PE=3 SV=1
+   3.040    304 pos.      248 -     267 sp|A1TLM3|NUOH_ACIAC NADH-quinone oxidoreductase subunit H OS=Acidovorax citrulli (strain AAC00-1) GN=nuoH PE=3 SV=1
+   3.020    302 pos.      333 -     352 sp|Q9VE01|C12A5_DROME Probable cytochrome P450 12a5, mitochondrial OS=Drosophila melanogaster GN=Cyp12a5 PE=2 SV=1
+   3.020    302 pos.      333 -     352 sp|Q9VE00|C12A4_DROME Probable cytochrome P450 12a4, mitochondrial OS=Drosophila melanogaster GN=Cyp12a4 PE=2 SV=2
+   3.020    302 pos.      333 -     352 sp|O18635|C12A2_MUSDO Cytochrome P450 CYP12A2 OS=Musca domestica GN=CYP12A2 PE=2 SV=1
+   3.020    302 pos.      329 -     348 sp|Q5RCN6|CP4V2_PONAB Cytochrome P450 4V2 OS=Pongo abelii GN=CYP4V2 PE=2 SV=1
+   3.020    302 pos.      328 -     347 sp|P33274|CP4F1_RAT Cytochrome P450 4F1 OS=Rattus norvegicus GN=Cyp4f1 PE=2 SV=1
+   3.020    302 pos.      324 -     343 sp|Q964R0|CP6K1_BLAGE Cytochrome P450 6k1 OS=Blattella germanica GN=CYP6K1 PE=2 SV=1
+   3.020    302 pos.      323 -     342 sp|Q9VVR9|C12C1_DROME Probable cytochrome P450 12c1, mitochondrial OS=Drosophila melanogaster GN=Cyp12c1 PE=2 SV=2
+   3.020    302 pos.      322 -     341 sp|Q92095|CP1A1_OPSTA Cytochrome P450 1A1 OS=Opsanus tau GN=cyp1a1 PE=2 SV=1
+   3.020    302 pos.      317 -     336 sp|Q3LFT9|CP1A2_BALAC Cytochrome P450 1A2 OS=Balaenoptera acutorostrata GN=CYP1A2 PE=2 SV=3
+   3.020    302 pos.      315 -     334 sp|P24453|CP1A2_MESAU Cytochrome P450 1A2 OS=Mesocricetus auratus GN=CYP1A2 PE=1 SV=4
+   3.020    302 pos.      312 -     331 sp|E3W9C4|C71A1_ZINZE Alpha-humulene 10-hydroxylase OS=Zingiber zerumbet GN=CYP71BA1 PE=1 SV=1
+   3.020    302 pos.      305 -     324 sp|Q9HB55|CP343_HUMAN Cytochrome P450 3A43 OS=Homo sapiens GN=CYP3A43 PE=1 SV=1
+   3.020    302 pos.      301 -     320 sp|P15392|CP2A4_MOUSE Cytochrome P450 2A4 OS=Mus musculus GN=Cyp2a4 PE=2 SV=3
+   3.000    300 pos.      322 -     341 sp|O42231|CP1A1_LIZAU Cytochrome P450 1A1 OS=Liza aurata GN=cyp1a1 PE=2 SV=1
+   3.000    300 pos.      318 -     337 sp|O04773|C75A6_CAMME Flavonoid 3',5'-hydroxylase OS=Campanula medium GN=CYP75A6 PE=2 SV=1
+   3.000    300 pos.      314 -     333 sp|Q8K4D6|CP4X1_RAT Cytochrome P450 4X1 OS=Rattus norvegicus GN=Cyp4x1 PE=2 SV=1
+   3.000    300 pos.      314 -     333 sp|Q6A152|CP4X1_MOUSE Cytochrome P450 4X1 OS=Mus musculus GN=Cyp4x1 PE=1 SV=1
+   3.000    300 pos.      305 -     324 sp|O61387|CP6B7_HELAM Cytochrome P450 6B7 OS=Helicoverpa armigera GN=CYP6B7 PE=2 SV=1
+   3.000    300 pos.      303 -     322 sp|Q0S7M1|CP125_RHOSR Steroid C26-monooxygenase OS=Rhodococcus sp. (strain RHA1) GN=cyp125 PE=1 SV=1
+   3.000    300 pos.      297 -     316 sp|Q9VFJ0|CP131_DROME Probable cytochrome P450 313a1 OS=Drosophila melanogaster GN=Cyp313a1 PE=3 SV=2
+   3.000    300 pos.      296 -     315 sp|Q6WKZ0|C7D94_MENGR Cytochrome P450 71D94 OS=Mentha gracilis GN=CYP71D94 PE=2 SV=1
+   3.000    300 pos.      261 -     280 sp|Q59971|DOXA_STRS5 Cytochrome P-450 monooxygenase DoxA OS=Streptomyces sp. (strain C5) GN=doxA PE=1 SV=1
+   3.000    300 pos.      254 -     273 sp|Q9ZAU3|DOXA_STRPE Cytochrome P-450 monooxygenase DoxA OS=Streptomyces peucetius GN=doxA PE=1 SV=1
+   3.000    300 pos.      222 -     241 sp|Q2RYV5|NUOH_SALRD NADH-quinone oxidoreductase subunit H OS=Salinibacter ruber (strain DSM 13855 / M31) GN=nuoH PE=3 SV=2
+   3.000    300 pos.      170 -     189 sp|Q0C678|GPMA_HYPNA 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase OS=Hyphomonas neptunium (strain ATCC 15444) GN=gpmA PE=3 SV=1
+   3.000    300 pos.      131 -     150 sp|Q10Q99|FH8_ORYSJ Formin-like protein 8 OS=Oryza sativa subsp. japonica GN=FH8 PE=2 SV=1
