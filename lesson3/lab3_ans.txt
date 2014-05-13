@@ -1,0 +1,14 @@
+a - NCBI, SMART, Pfam, COGs, TIGRFAM, PRK, KOGs, LOAD
+b - 3419 amino acids
+c - BRCA2 protein possess 5 distinct protein domains.
+d - BRCA2 posses 8 repeat domains
+e - 10
+f - yes, function of these domains could be independently of one another because there are a lot of species who have one domain and have not another
+g - no
+h - BRCA2 possess 6 regions of low complexity
+i - 5 distinct protein domains: BRCA2, BRCA-2_helical, BRCA-2_OB1, Tower, BRCA-2_OB3
+j - yes
+k - there are a lot of different species and BRC repeat may not necessarily mean cancer
+l - 8
+m - hmmbuild -o /dev/null HMM SEED
+n - yes, the results of InterProScan congruent with the CDD search
