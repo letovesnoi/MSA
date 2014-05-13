@@ -1,0 +1,19 @@
+CP003331.fna
+>gi|378796054|gb|CP003331.1| Vibrio cholerae IEC224 chromosome II, complete sequence
+count_iterations = 37
+final_log-likelihood = -4276618.7147
+transition_probability:
+0->0: 9.992e-1
+0->1: 8.000e-4
+1->0: 3.000e-4
+1->1: 9.997e-1
+emission_probability:
+e_A0 = 2.841e-1
+e_C0 = 1.912e-1
+e_G0 = 2.227e-1
+e_T0 = 3.020e-1
+e_A1 = 2.572e-1
+e_C1 = 2.489e-1
+e_G1 = 2.419e-1
+e_T1 = 2.519e-1
+
