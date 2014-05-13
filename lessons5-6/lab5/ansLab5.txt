@@ -1,0 +1,17 @@
+1. contig7:27,359-27,961
+2. Aminoacids
+3. The predictions are based on transcriptional, translational and donor/acceptor splicing signals as well as the length and compositional distributions of exons, introns and intergenic regions.
+4. Genescan prediction shorter than the Twinscan prediction
+5. Reading frame: +2 (e.g. +1, -1)
+   Location of start codon: 27416 (specify nucleotide position)
+   Location of the last coding nucliotide: 27919. Stop codon: 27920 - 27922(range)
+   Write the sequence within reading frame: MKRLKAYLKDGINVAAVMCLGDTISQFFFDKKSLDEWDAGRTLRFGIVGL
+                                            VFVGPTLRRWYHFLESRVPKTYSPMRRGVTKMLVDQTLFAPPFTMAMSFL
+                                            VPLSNGEPIDRIRQRILDSYLSILVRNYMLWPAAQMLNFRFVPLGYQVLY
+                                            AQFIALVWNCYLSMILNS*
+6. 168
+7. yes
+8. Strand: +   
+   Coordinates of the CDS: 27416 - 27919.
+   Stop codon: 27920-27922.
+
