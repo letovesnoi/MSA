@@ -1,0 +1,21 @@
+a. blue, red
+   TAATTA: Z-score, Significance: 2.6, 0.005
+   ATTAAT: Z-score, Significance: 2.5, 0.01
+   TTAATT: Z-score, Significance: 2.0, 0.05
+   AATTTA: Z-score, Significance: 2.2, 0.05
+   ACCAAA: Z-score, Significance: 1.9, 0.05
+   ATTTAA: Z-score, Significance: 1.7, 0.05
+   ATTTGA: Z-score, Significance: 1.8, 0.05
+b. yes, they correspond the same masks, partially overlap and the first two kmers are palindromic kmers. 
+c. -
+d. many
+e. Number of promoters with Enriched Transcription Factors sites < 10^(-3). It is less then number of promoters with Non-enriched TF sites. And this motif are long.
+f. Yes, ATTAATTA and there are a lot of equal distances between occurrences of this motifs.
+g. MA0005.2, MA0548.1
+h. -
+i. No, the first method more sensitive. Z-score is the signed number of standard deviations an observation or datum is above the mean. For specific motifs z-score are positive and big. 
+j. yes
+k. 93.5933333333333
+l. First motif is very conservative.
+m. no 
+
